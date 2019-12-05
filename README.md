@@ -1,4 +1,4 @@
-# text-classification
+# ML-NaiveBayes
 Implementation of Naive Bayes Machine Learning Algorithm using Python
 
 # About
